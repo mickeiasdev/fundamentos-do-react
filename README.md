@@ -1,4 +1,4 @@
-# 📘 Fundamentos de React
+# 📘 Fundamentos de React (Em andamento)
 
 Aprenda a criar interfaces web interativas com o poderoso framework React! Nesta disciplina, exploramos os principais conceitos do React, como JSX, componentes, estado, props e o ciclo de vida dos componentes. Também abordamos o gerenciamento de estado e técnicas modernas para construir aplicações reativas e dinâmicas.
 
