@@ -1,0 +1,15 @@
+.Exc1 {
+  font-family: sans-serif;
+}
+
+.h2Exc1,
+h3Exc1 {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.boldExc1 {
+  font-weight: bold;
+  color: cornflowerblue;
+}
